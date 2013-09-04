@@ -1,0 +1,620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"size",
+				"size_t"
+			],
+			[
+				"telef",
+				"telefonregister"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main2.cpp",
+			"settings":
+			{
+				"buffer_size": 872,
+				"line_ending": "Windows",
+				"name": "#include <stdio.h>"
+			}
+		},
+		{
+			"file": "render.h",
+			"settings":
+			{
+				"buffer_size": 388,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "render.cpp",
+			"settings":
+			{
+				"buffer_size": 2080,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Game.cpp",
+			"settings":
+			{
+				"buffer_size": 5096,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Game.h",
+			"settings":
+			{
+				"buffer_size": 1010,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Character.h",
+			"settings":
+			{
+				"buffer_size": 887,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Character.cpp",
+			"settings":
+			{
+				"buffer_size": 5818,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "compiling.bat",
+			"settings":
+			{
+				"buffer_size": 573,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Simple/Downloads/Labyrint_project-Maze_game/Labyrint_project-Maze_game/render.cpp",
+			"settings":
+			{
+				"buffer_size": 2077,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Makefile/Make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/char_configs/NTConfig_Paladin_SS_Godly.ntl",
+		"/C/Users/Simple/Downloads/glut-3.7.6-bin/glut-3.7.6-bin/README-win32.txt",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/Unique.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/Gold Potions Runes Gems Essences Keys Organs.nip",
+		"/C/Users/Simple/Downloads/Labyrint_project-Maze_game/Labyrint_project-Maze_game/main2.cpp",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/ReadBlenderFile.cpp",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Obstacle.cpp",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Obstacle.h",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/advance/normal.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/White.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/Runeword.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/Charms.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/FAST.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/Cubed.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/CustomAdditions.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/Crafted.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/Unid.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/shop.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/Set.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/Magic.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/item_configs/Master/Rare.nip",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/sdk/skills.txt",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/bots/ConfigCheck.ntj",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot/NTBotGame.ntj",
+		"/C/Users/Simple/Downloads/Etal-master/Etal-master/D2NT/scripts/NTBot.ntj",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Game.cpp",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/render.h",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/compiling.bat",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Character.cpp",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/render.cpp",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Character.h",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Game.h",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/TODO-Lista.txt",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/TODO-List3D.txt",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Character.h.gch",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Game.h.gch",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/hej.txt",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Inputs.cpp",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Inputs.h",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/main.cpp",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Makefile",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Maze_game_OpenGL.sublime-project",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Maze_game_OpenGL.sublime-workspace",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/MazeeGame.exe",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/MazeGame.exe",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/README.md",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Inputs.h.gch",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/.gitattributes",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/.gitignore",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/compiling.txt",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Linux/Linux.h",
+		"/C/Users/Simple/Documents/Labyrint_project-master_OpenGL/Maze/Maze.h",
+		"/C/MinGW/freeglut/Readme.txt",
+		"/C/Users/Simple/Documents/test_glut/main.cpp",
+		"/C/MinGW/freeglut/Copying.txt",
+		"/C/Users/Simple/Documents/CPP_Project/Int_Array.cpp",
+		"/C/Users/Simple/Desktop/1. Race condition kan inträffa om systemet försöke",
+		"/C/Users/Simple/Desktop/CPP_Project_finished/CPP_Project (copy)/main.cpp",
+		"/F/Labyrint_project-master/Game.cpp",
+		"/C/Users/Simple/Documents/Jacelyn/ignorelist.txt",
+		"/F/Diablo II ignore list.txt",
+		"/C/Users/Simple/Desktop/Reciepes",
+		"/C/Users/Simple/AppData/Local/Temp/Rar$DIa0.937/main.cpp",
+		"/C/Users/Simple/Documents/CPP_Project/main.cpp",
+		"/C/Users/Simple/Desktop/test.py",
+		"/C/Users/Simple/AppData/Local/Temp/Rar$DIa0.762/Getopt.h",
+		"/C/Users/Simple/Documents/CPP_Project/Maze.h",
+		"/F/Documents/Programming/Laboration_4/linked_list.h",
+		"/C/Users/Simple/Documents/CPP_Project/Linked_list.cpp",
+		"/F/Documents/Programming/Laboration_4/intArray.h",
+		"/C/Users/Simple/Documents/CPP_Project/Maze.cpp",
+		"/C/Users/Simple/Documents/CPP_Project/MAze",
+		"/F/Documents/Programming/Laboration_4/sort_functions.cpp",
+		"/F/Documents/Programming/Laboration_4/main.cpp",
+		"/F/Documents/Programming/Laboration_4/intArray.cpp",
+		"/F/Documents/Programming/Laboration_4/linked_list.cpp",
+		"/C/Users/Simple/Documents/CPP_project",
+		"/C/Users/Simple/Documents/recept",
+		"/C/Users/Simple/Desktop/SVR - klagan",
+		"/C/Users/Simple/Desktop/svensk radiotjanst",
+		"/C/Users/Simple/Desktop/Documents/Programming/Laboration_3/linked_list.cpp",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/phone_record.bat",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/Labb_3 Commands/Labb_3_Windows_stuff.txt",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/telefonregister.txt",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/Labb_3 Commands/Phone_numbers.txt",
+		"/C/phone_record.bat",
+		"/C/telefonregister.txt",
+		"/F/Documents/Operativsystem/Linux_labb_3/Testing/telefonregister.txt",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/Labb 4 Phyton/Labb_4_phyton_max.py",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/Labb 4 Phyton/Labb_4_phyton_array.py",
+		"/C/Users/Simple/Documents/myfile.txt",
+		"/C/Users/Simple/Downloads/myfile.txt",
+		"/C/Users/Simple/Documents/Labb_3_Windows_stuff",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/Labb_3 Commands/sorting.bat",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/Labb_3 Commands/sorting - club.bat",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/Labb 4 Phyton/Labb_4_phyton_max2.py",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/Labb 4 Phyton/Labb_4_Phyton.py",
+		"/C/Users/Simple/Documents/Intro till Operativesystems/Labb 4 Phyton/Labb_4_phyton_centered_average.py",
+		"/C/Users/Simple/Documents/resultat.txt",
+		"/C/Users/Simple/Desktop/sorting.bat",
+		"/C/Users/Simple/Desktop/sorting - Copy.bat",
+		"/C/Users/Simple/Documents/Labb_4_phyton_array_count9.py",
+		"/C/Users/Simple/Documents/Labb_4_phyton_max2.py",
+		"/C/Users/Simple/Documents/Labb_4_phyton_centered_average.py",
+		"/C/Users/Simple/Documents/Labb_4_phyton_make_ends.py",
+		"/C/Users/Simple/Documents/Labb_4_phyton_name.py",
+		"/C/Users/Simple/Documents/Labb_4_phyton_round_sum.py",
+		"/C/Users/Simple/Documents/Labb_4_phyton_temp.py",
+		"/C/Users/Simple/Downloads/phyton labb.py",
+		"/C/Users/Simple/Documents/Labb_4_Phyton.py",
+		"/C/Users/Simple/Documents/Labb_4_phyton_max.py",
+		"/C/Users/Simple/Desktop/movies to dwnld"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"switch",
+			"cain",
+			"0",
+			"start",
+			"x",
+			"[x][x][x][x][x][x][x][x][x]",
+			"]",
+			"col",
+			"Col",
+			"Outfile",
+			"outfile",
+			"Row",
+			"row",
+			"Col",
+			"col",
+			"Col",
+			"col",
+			"labyrinth",
+			"\\n",
+			"^[0-9]\\.",
+			"[0-9].",
+			"<",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main2.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								206,
+								206
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <stdio.h>",
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 12.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "render.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 388,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "render.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2080,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2080,
+								2080
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1052.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Game.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5096,
+								5096
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2616.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Game.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1010,
+								1010
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Character.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 887,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								887,
+								887
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Character.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5818,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5818,
+								5818
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2600.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "compiling.bat",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 573,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								573,
+								573
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Batch File/Batch File.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/Simple/Downloads/Labyrint_project-Maze_game/Labyrint_project-Maze_game/render.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 178.0
+	},
+	"project": "Maze_game_OpenGL.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

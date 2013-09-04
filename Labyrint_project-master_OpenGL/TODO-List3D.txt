@@ -1,0 +1,15 @@
+Tillvägagångssätt:
+
+    1. Skapa Opengl fönster, testa så att det fungerar att rita någonting
+2. skapa en primitivobject generellt
+    a. av en vägg som ett testt
+    4. se så att primitiven går att skrivas ut
+3. Fixa en funktion för att rendera en primitiv
+5. få in det primitivobjectet i Game klassen
+6. implementera samma labyrint fast med detta primitivobject
+7. fixa events och inputs // vilka events, asså navigering med piltangenterna
+    a. Användarens integering ie piltangenterna osv
+    b. Opengl events så som idle funktionen och onkey event bla.bla
+8. fixa till skärmen så att den enbart visar player och inget mer
+9. Lägg till liknande primitiv för dörr och key
+10. nu är vi där jag är typ??
